@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+.git/
+.pytest_cache/
+logs/
+tests/
+README.md
+WORKLOG.md
